@@ -1,0 +1,7 @@
+en:
+  plugins:
+    repository_sync:
+      label: Repository Checker
+      title: Repository Checker
+      actions:
+        search: Search
